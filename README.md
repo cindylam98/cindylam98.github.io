@@ -4,3 +4,5 @@
 * Additional Javascript practice using destructuring assignments
 * Deploying our web app using Github Project Pages
 * Creating a CIT Portfolio Pages
+
+[project](https://cindylam98.github.io/)
